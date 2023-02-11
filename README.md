@@ -7,9 +7,11 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-187%20lines%20of%20code-blue)
+
 **🐱 My GitHub Data** 
 
-> 🏆 8 Contributions in the Year 2023
+> 🏆 10 Contributions in the Year 2023
  > 
 > 📦 31 Bytes Used in GitHub's Storage 
  > 
@@ -27,10 +29,6 @@ Shell                    1 repo              ███████████�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/purapetino/purapetino/main/charts/bar_graph.png) 
-
-
- Last Updated on 11/02/2023 10:40:53 UTC
+ Last Updated on 11/02/2023 10:57:34 UTC
 <!--END_SECTION:waka-->
