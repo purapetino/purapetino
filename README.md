@@ -3,7 +3,7 @@
 <p></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -71,5 +71,5 @@ Shell                    1 repo              ███████████�
 ![Chart not found](https://raw.githubusercontent.com/purapetino/purapetino/main/charts/bar_graph.png) 
 
 
- Last Updated on 11/02/2023 15:23:51 UTC
+ Last Updated on 11/02/2023 15:24:04 UTC
 <!--END_SECTION:waka-->
