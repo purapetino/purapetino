@@ -2,6 +2,9 @@
 
 <p></p>
 
+<details>
+<summary>waka-time</summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-42%20mins-blue)
 
@@ -73,3 +76,5 @@ Shell                    1 repo              ███████████�
 
  Last Updated on 11/02/2023 23:22:20 UTC
 <!--END_SECTION:waka-->
+
+</details>
